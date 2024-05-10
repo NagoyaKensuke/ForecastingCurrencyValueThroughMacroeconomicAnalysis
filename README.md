@@ -4,6 +4,10 @@ Predicts yen depreciation and appreciation by comparing M1, M2, and M3 for Japan
 日本とアメリカのM1、M2、M3を比較し、円安と円高の予測
 ![money_supply](https://github.com/NagoyaKensuke/ForecastingCurrencyValueThroughMacroeconomicAnalysis/assets/46418599/ea5babc0-967f-4616-befb-546778823beb)
 
+M2
+![money_supply2](https://github.com/NagoyaKensuke/ForecastingCurrencyValueThroughMacroeconomicAnalysis/assets/46418599/19e56f15-6fad-4fad-87c9-3609ec50cb43)
+
+
 日本銀行の政策と、マネーサプライの推移および円安・円高との関係<br>
 1980年代後半から1990年代初頭：<br>
   日本経済はバブル景気を経験し、日銀は金融緩和政策を実施しました。
